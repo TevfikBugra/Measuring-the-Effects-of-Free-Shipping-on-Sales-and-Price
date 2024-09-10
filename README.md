@@ -1,5 +1,5 @@
 # Measuring-the-Effects-of-Free-Shipping-on-Sales-and-Price
-## Graduation Project and Paper (Supervised by Taner Bilgiç)
+## Boğaziçi University Industrial Engineering Graduation Project and Paper (Supervised by Taner Bilgiç)
 ### Abstract
  The number of people using online shopping platforms is increasing gradually in the
  world. As a result, huge and competitive markets are formed. To prosper in these harsh
