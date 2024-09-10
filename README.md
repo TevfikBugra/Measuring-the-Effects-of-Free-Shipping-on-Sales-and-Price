@@ -15,4 +15,5 @@
  revenue maximization, predictive analysis, order padding
 
 **Supervised by Taner Bilgiç**
+
 **Contributions**: Emre Bacak, Fatmanur Yaman
