@@ -1,5 +1,5 @@
 # Measuring-the-Effects-of-Free-Shipping-on-Sales-and-Price
-## Boğaziçi University Industrial Engineering Graduation Project and Paper (Supervised by Taner Bilgiç)
+## Boğaziçi University Industrial Engineering Graduation Project and Paper 
 ### Abstract
  The number of people using online shopping platforms is increasing gradually in the
  world. As a result, huge and competitive markets are formed. To prosper in these harsh
@@ -12,3 +12,6 @@
  method, it was possible to obtain a %5.36 increase in revenue with the analyzed data.
  Key Words: Contingent free shipping, threshold value, shopping basket, e-commerce,
  revenue maximization, predictive analysis, order padding
+
+**Supervised by Taner Bilgiç**
+**Contributions**: Emre Bacak, Fatmanur Yaman
