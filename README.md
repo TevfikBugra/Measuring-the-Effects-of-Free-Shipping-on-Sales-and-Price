@@ -10,7 +10,8 @@
  is discussed. Throughout the project, methods such as effect formulation, statistical
  distribution fitting, and scenario simulations were utilized. As a result, using the discussed
  method, it was possible to obtain a %5.36 increase in revenue with the analyzed data.
- Key Words: Contingent free shipping, threshold value, shopping basket, e-commerce,
+
+ **Key Words**: Contingent free shipping, threshold value, shopping basket, e-commerce,
  revenue maximization, predictive analysis, order padding
 
 **Supervised by Taner Bilgiç**
